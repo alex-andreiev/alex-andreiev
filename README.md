@@ -47,7 +47,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/alex-andreiev"><img src="./profile/stats.svg" alt="alex-andreiev's GitHub stats" /></a>
+<a href="https://github.com/alex-andreiev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img src="./profile/stats-light.svg" alt="alex-andreiev's GitHub stats" />
+  </picture>
+</a>
 <a href="https://github.com/alex-andreiev"><img
   src="https://streak-stats.demolab.com/?user=alex-andreiev&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
