@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180" role="img" aria-label="GitHub stats placeholder">
+  <rect width="500" height="180" rx="16" fill="#ffffff" stroke="#d1d5db"/>
+  <rect x="24" y="24" width="452" height="132" rx="12" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="48" y="72" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">GitHub stats loading...</text>
+  <text x="48" y="104" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="14">Run the workflow to generate private-aware stats.</text>
+  <text x="48" y="130" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="12">This placeholder will be replaced automatically.</text>
+</svg>
