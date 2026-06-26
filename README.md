@@ -57,5 +57,5 @@
 
 <a href="https://github.com/alex-andreiev"><img src="./profile/stats.svg" alt="alex-andreiev's GitHub stats" /></a>
 <a href="https://github.com/alex-andreiev"><img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=alex-andreiev&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  src="https://streak-stats.demolab.com/?user=alex-andreiev&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
