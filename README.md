@@ -53,10 +53,9 @@
 
 ### Badges
 
-<p align="left">
-  <img src="./profile/stats.svg" alt="Alex's GitHub stats" />
-  <a href="https://github.com/alex-andreiev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-andreiev&hide_border=true&theme=transparent&background=00000000&stroke=0f172a&ring=0f766e&fire=0f766e&currStreakNum=0f172a&currStreakLabel=0f766e&sideNums=0f172a&sideLabels=0f172a&dates=0f172a" alt="Alex's GitHub streak" />
-  </a>
-</p>
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/alex-andreiev"><img src="./profile/stats.svg" alt="alex-andreiev's GitHub stats" /></a>
+<a href="https://github.com/alex-andreiev"><img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=alex-andreiev&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
