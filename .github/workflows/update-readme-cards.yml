@@ -1,6 +1,9 @@
 name: Update README cards
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
@@ -18,7 +21,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=0f766e&text_color=0f172a&icon_color=0f766e&bg_color=00000000
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000
           path: profile/stats.svg
           token: ${{ secrets.GH_PAT }}
 
