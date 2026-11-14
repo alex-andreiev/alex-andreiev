@@ -1,10 +1,12 @@
 # Oleksandr Andreiev
 
-**Software Engineer | Ruby on Rails · Node.js · React | AI-assisted Development**
+**Software Engineer & Product Developer | Ruby on Rails · Node.js · React | AI-assisted Development**
 
 I'm a software engineer with **7+ years of commercial experience** building and maintaining production web applications. My main expertise is **Ruby on Rails**, and I also work with **Node.js (NestJS), React, and Vue.js** based on the needs of the product and the team's existing stack.
 
 My work focuses on backend and full-stack engineering: developing APIs and integrations, implementing business logic, working with PostgreSQL, and improving established codebases. I value pragmatic solutions, maintainable code, and reliable delivery.
+
+I approach development with a **product mindset**: understanding user and business needs, making practical technical trade-offs, and delivering useful features rather than focusing on a particular framework.
 
 **AI coding agents are part of my daily workflow.** I use tools such as Claude Code and Codex to explore codebases, support implementation and refactoring, and move faster across different technologies. I still take responsibility for technical decisions, reviewing changes, and the final result.
 
