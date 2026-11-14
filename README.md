@@ -12,6 +12,8 @@ I approach development with a **product mindset**: understanding user and busine
 
 I'm currently working with **Kodo Labs** and open to **part-time remote B2B collaborations (around 20 hours/week)**.
 
+I also explore product development through small AI-assisted Android app experiments. [My apps on Google Play](https://play.google.com/store/apps/developer?id=40i+Lab).
+
 ### Skills
 
 <p align="left">
