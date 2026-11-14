@@ -1,9 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
-============================================================================================================================
+# Oleksandr Andreiev
 
-*   🌍 I'm based in Uzhhorod, Ukraine
-*   🧠 I'm learning practical AI tooling to build better products
-*   🤝 Open to connecting around clean web products and practical tooling
+**Software Engineer | Ruby on Rails · Node.js · React | AI-assisted Development**
+
+I'm a software engineer with **7+ years of commercial experience** building and maintaining production web applications. My main expertise is **Ruby on Rails**, and I also work with **Node.js (NestJS), React, and Vue.js** based on the needs of the product and the team's existing stack.
+
+My work focuses on backend and full-stack engineering: developing APIs and integrations, implementing business logic, working with PostgreSQL, and improving established codebases. I value pragmatic solutions, maintainable code, and reliable delivery.
+
+**AI coding agents are part of my daily workflow.** I use tools such as Claude Code and Codex to explore codebases, support implementation and refactoring, and move faster across different technologies. I still take responsibility for technical decisions, reviewing changes, and the final result.
+
+I'm currently working with **Kodo Labs** and open to **part-time remote B2B collaborations (around 20 hours/week)**.
 
 ### Skills
 
